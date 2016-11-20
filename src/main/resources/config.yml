@@ -1,0 +1,53 @@
+## Invalid arguments
+invalid-args: "&4Invalid arguments! Please try again."
+
+## Not enough arguments
+notenough-args: "&4Not enough arguments! Please try again."
+
+## Doesn't have permission
+invalid-perms: "&4You do not have permission to perform that command!"
+
+## Isn't a player (player-only commands)
+invalid-sender: "&4You must be a player!"
+
+## Shop doesn't exist
+shop-no-exist: "&4That shop doesn't exist!"
+
+## Shop already exists
+shop-exists: "&4That shop already exists!"
+
+## Item exists
+item-exists: "&4That item already exists!"
+
+## Item doesn't exist
+item-no-exist: "&4That item does not exist!"
+
+## Created shop
+shop-create: "&6Created shop &2%shop%&6!"
+
+## Deleted shop
+shop-delete: "&6Deleted shop &2%shop%&6!"
+
+## Added item
+item-add: "&6Added item &2%item% &6to shop &2%shop%&6!"
+
+## Edited item
+item-edit: "§&Set buy option for item &2%item% &6to &c%option%§6!"
+
+## Deleted item
+item-delete: "&6Deleted item &2%item% &6from shop &2%shop%&6!"
+
+## Invalid buy option
+invalid-buy-option: "&4Invalid buy option! Please try again."
+
+## Reload message
+reload-msg: "&2WhereToShop &6successfully reloaded!"
+
+## Message just before teleport
+teleport-msg: "&6Teleporting..."
+
+## No place to buy item
+no-buy: "&4There is nowhere to buy that item!"
+
+## No place to sell item
+no-sell: "&4There is nowhere to sells that item!"

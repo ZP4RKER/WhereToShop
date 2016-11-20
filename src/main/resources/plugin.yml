@@ -1,0 +1,12 @@
+name: WhereToShop
+version: 1.0
+main: com.zp4rker.wts.WhereToShop
+author: ZP4RKER
+description: Shop-oriented warping system
+commands:
+  wheretoshop:
+    aliases: [wtshop, whereshop]
+  wheretobuy:
+    aliases: [wtbuy, wherebuy, wtb]
+  wheretosell:
+    aliases: [wtsell, wheresell, wts]
